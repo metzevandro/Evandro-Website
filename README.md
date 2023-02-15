@@ -1,4 +1,4 @@
-<img src="./.github/WebSite" alt="Web-Site" />
+<img src="./.github/WebSite.png" alt="Web-Site" />
 
 <br><br>
 
