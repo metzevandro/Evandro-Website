@@ -1,4 +1,4 @@
-
+<img src="./.github/WebSite" alt="Web-Site" />
 
 <br><br>
 
@@ -10,16 +10,20 @@
 
 ## Sobre
 
-Projeto desenvolvido com a ajuda da Rocketseat.
+Projeto desenvolvido com a ajuda do curso DevLink da Rocketseat, com certificado.
 
-<img src="./.github/Wallpaper - NLW Setup.png" alt="Wallpaper NLW Setup" />
+Tendo sua função interligar as redes sociais, facilitando o acesso de identificação. Possui, além disso, alteração do modo de cores, para o estilo dark ou light.
+
+<img src="./.github\devlinks-certificate.jpg"/>
 
 ## Tecnologias 
 
 <p align="center">
   • <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> 
   • <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>
-  • <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a> 
+  • <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>
+  • <a href="https://github.com/">GitHub</a> 
+  • <a href="https://git-scm.com/">Git</a> 
 </p>
 
 ## Autor
