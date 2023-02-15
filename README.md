@@ -16,6 +16,7 @@ Tendo sua função interligar as redes sociais, facilitando o acesso de identifi
 
 <img src="./.github\devlinks-certificate.jpg"/>
 
+[🔗Clique aqui para acessar o site](https://metzevandro.vercel.app/)
 ## Tecnologias 
 
 <p align="center">
